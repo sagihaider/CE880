@@ -12,7 +12,7 @@
 
 ## Lab 1: Introduction to Data Science <a name="introduction"></a>
 
-Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjCz4EVYbA) so we can have your repository information. This task is mandatory and if you ignore it you may lose marks of your lab sessions.
+Please make sure you have filled this [Google form](https://forms.gle/gx4Zeedidqqde8Me7) so we can have your repository information. This task is mandatory and if you ignore it you may lose marks of your lab sessions.
 
 ### Steps to follow:
 
