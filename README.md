@@ -5,8 +5,8 @@
 <!-- 2. [Lab 6: Data Exploration](#DE)
 3. [Lab 7: Deep Learning for Images and Text](#DL)
 4. [Lab 8: Transfer Learning](#TL) -->
-5. [Assignment](#assignment)
-6. [Help](#help)
+* [Assignment](#assignment)
+* [Help](#help)
 
 ***
 
