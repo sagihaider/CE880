@@ -2,7 +2,7 @@
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
-2. [Lab 2: Data Exploration](#DE)
+2. [Lab 2: Being a Data Scientist](#DS)
 <!-- 2. [Lab 6: Data Exploration](#DE)
 3. [Lab 7: Deep Learning for Images and Text](#DL)
 4. [Lab 8: Transfer Learning](#TL) -->
@@ -23,6 +23,11 @@ Please make sure you have filled this [Google form](https://forms.gle/gx4Zeedidq
 4. Now, jump to [Week 1](https://github.com/sagihaider/CE880_2021/tree/main/Week1) and read the whole notebook.
 5. Now complete your problems given on Moodle, [Lab 1 Exercise](https://github.com/sagihaider/CE888_2021/blob/main/Lab_1/Exercise_Lab_1.ipynb). Please feel free to take the help from web.
 6. Once you complete the questions make sure your lab instructor has check and marked you. 
+
+## Lab 2: Being a Data Scientist <a name="DS"></a>
+
+### Steps to follow:
+
 
 ### NumPy
 
