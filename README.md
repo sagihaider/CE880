@@ -2,6 +2,7 @@
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
+2. [Lab 2: Data Exploration](#DE)
 <!-- 2. [Lab 6: Data Exploration](#DE)
 3. [Lab 7: Deep Learning for Images and Text](#DL)
 4. [Lab 8: Transfer Learning](#TL) -->
