@@ -5,6 +5,7 @@
 2. [Lab 2: Being a Data Scientist](#DS)
 3. [Lab 3: Data Exploration: Exploratory Data Analysis](#DE)
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
+5. [Lab 5: Introduction to Machine Learning](#ML)
 <!-- 2. [Lab 6: Data Exploration](#DE)
 3. [Lab 7: Deep Learning for Images and Text](#DL)
 4. [Lab 8: Transfer Learning](#TL) -->
@@ -49,6 +50,14 @@ Please make sure you have filled this [Google form](https://forms.gle/gx4Zeedidq
 
 1. Go to [Week 4](https://github.com/sagihaider/CE880_2021/tree/main/Week4) folder
 2. Open [Exercise 1](https://github.com/sagihaider/CE880_2021/blob/main/Week4/Exercise_4_DataExploration.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Clustering, Dimensionality Reduction, Outlier Detection, and a case study. Please re-run all the cells and feel free to play with it.
+
+## Lab 5: Introduction to Machine Learning <a name="ML"></a>
+
+### Steps to follow:
+
+1. Go to [Week 5](https://github.com/sagihaider/CE880_2021/tree/main/Week5) folder
+2. Open [Exercise 5: Regression](https://github.com/sagihaider/CE880_2021/blob/main/Week5/Exercise_5_Regression.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered simple and multiple regression. Please re-run all the cells and feel free to play with it.
+3. Open [Exercise 5: Classification](https://github.com/sagihaider/CE880_2021/blob/main/Week5/Exercise_5_Classification.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered classification on the real data. Please re-run all the cells and feel free to play with it.
 
 ***
 ## Important Packages
