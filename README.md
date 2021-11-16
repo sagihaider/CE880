@@ -65,7 +65,7 @@ Please make sure you have filled this [Google form](https://forms.gle/gx4Zeedidq
 ### Steps to follow:
 
 1. Go to [Week 6](https://github.com/sagihaider/CE880_2021/tree/main/Week6) folder
-2. Open [Exercise 6: Regression](https://github.com/sagihaider/CE880_2021/blob/main/Week6/Excersise_6_1.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Statistics and Hypothesis Testing. Please re-run all the cells and feel free to play with it.
+2. Open [Exercise 6: Statistics and Hypothesis Testing](https://github.com/sagihaider/CE880_2021/blob/main/Week6/Excersise_6_1.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Statistics and Hypothesis Testing. Please re-run all the cells and feel free to play with it.
 
 ***
 ## Important Packages
