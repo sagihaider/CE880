@@ -26,7 +26,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 2. Open [Google Colab](https://colab.research.google.com/)
 3. For help on Colab, please watch YouTube Tutorials or watch my [YouTube Tutorial](https://www.youtube.com/watch?v=Zwqy5ub_-00&list=PLIzq8uevSgtdhgCzajHUUESPifdw5ol1N)
 4. Now, jump to [Week 1](https://github.com/sagihaider/CE880_2021/tree/main/Week1) and read the whole notebook.
-5. Now complete your problems given on Moodle, [Lab 1 Exercise](https://github.com/sagihaider/CE888_2021/blob/main/Lab_1/Exercise_Lab_1.ipynb). Please feel free to take the help from web.
+5. Now complete your problems given on Moodle. Please feel free to take the help from web.
 6. Once you complete the questions make sure your lab instructor has check and marked you. 
 
 ## Lab 2: Being a Data Scientist <a name="DS"></a>
