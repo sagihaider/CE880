@@ -1,4 +1,4 @@
-# CE880_2021
+# CE880 University of Essex: 2021-2022 (Spring Term)
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
