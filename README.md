@@ -29,6 +29,8 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 5. Now complete your problems given on Moodle. Please feel free to take the help from web.
 6. Once you complete the questions make sure your lab instructor has check and marked you. 
 
+<!-- 
+
 ## Lab 2: Being a Data Scientist <a name="DS"></a>
 
 ### Steps to follow:
@@ -76,6 +78,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 2. Open [Exercise 7_1: Decision Tree](https://github.com/sagihaider/CE880_2021/blob/main/Week7/Exercise_7_1_Decision_tree_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Decision Tree. Please re-run all the cells and feel free to play with it.
 3. Open [Exercise 7_2: Random Forest](https://github.com/sagihaider/CE880_2021/blob/main/Week7/Exercise_7_2_RandomForest_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Random Forest. Please re-run all the cells and feel free to play with it.
 
+-->
 
 ***
 ## Important Packages
