@@ -2,13 +2,14 @@
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
+<!-- 
 2. [Lab 2: Being a Data Scientist](#DS)
 3. [Lab 3: Data Exploration: Exploratory Data Analysis](#DE)
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
 5. [Lab 5: Introduction to Machine Learning](#ML)
 6. [Lab 6: Statistics and Hypothesis Testing](#SHT)
 7. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
-<!-- 2. [Lab 6: Data Exploration](#DE)
+2. [Lab 6: Data Exploration](#DE)
 3. [Lab 7: Deep Learning for Images and Text](#DL)
 4. [Lab 8: Transfer Learning](#TL) -->
 * [Assignment](#assignment)
