@@ -7,8 +7,8 @@
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
 5. [Lab 5: Introduction to Machine Learning](#ML)
 6. [Lab 6: Statistics and Hypothesis Testing](#SHT)
+7. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
 <!-- 
-8. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
 9. [Lab 6: Data Exploration](#DE)
 10. [Lab 7: Deep Learning for Images and Text](#DL)
 11. [Lab 8: Transfer Learning](#TL) 
