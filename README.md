@@ -90,9 +90,10 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 
 ### Steps to follow:
 
-1. Go to [Week 7](https://github.com/sagihaider/CE880_2021/tree/main/Week7) folder
-2. Open [Exercise 7_1: Decision Tree](https://github.com/sagihaider/CE880_2021/blob/main/Week7/Exercise_7_1_Decision_tree_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Decision Tree. Please re-run all the cells and feel free to play with it.
-3. Open [Exercise 7_2: Random Forest](https://github.com/sagihaider/CE880_2021/blob/main/Week7/Exercise_7_2_RandomForest_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Random Forest. Please re-run all the cells and feel free to play with it.
+1. Go to [Week 9](https://github.com/sagihaider/CE880/tree/main/week9) folder
+2. Open [Exercise 9_1](https://github.com/sagihaider/CE880/blob/main/week9/Excercise_9_1.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Titanic with explainable AI. Please re-run all the cells and feel free to play with it.
+
+3. Open [Exercise 9_2](https://github.com/sagihaider/CE880/blob/main/week9/Excercise_9_2.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Wisconsin Breast Cancer with Explainable AI. Please re-run all the cells and feel free to play with it.
 
 
 <!-- 
