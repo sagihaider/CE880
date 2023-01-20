@@ -1,7 +1,8 @@
-# CE880 University of Essex: 2022-2023 (Autumn Term)
+# CE880 University of Essex: 2022-2023 (Spring Term)
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
+<!-- 
 2. [Lab 2: Being a Data Scientist](#DS)
 3. [Lab 3: Data Exploration: Exploratory Data Analysis](#DE)
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
@@ -9,7 +10,7 @@
 6. [Lab 6: Statistics and Hypothesis Testing](#SHT)
 7. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
 9. [Lab 9: Explainable AI](#xAI)
-<!-- 
+
 10. [Lab 7: Deep Learning for Images and Text](#DL)
 11. [Lab 8: Transfer Learning](#TL) 
 -->
@@ -31,8 +32,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 5. Now complete your problems given on Moodle. Please feel free to take the help from web.
 6. Once you complete the questions make sure your lab instructor has check and marked you. 
 
-
-
+<!-- 
 ## Lab 2: Being a Data Scientist <a name="DS"></a>
 
 ### Steps to follow:
@@ -94,10 +94,9 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 2. Open [Exercise 9_1](https://github.com/sagihaider/CE880/blob/main/week9/Excercise_9_1.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Titanic with explainable AI. Please re-run all the cells and feel free to play with it.
 
 3. Open [Exercise 9_2](https://github.com/sagihaider/CE880/blob/main/week9/Excercise_9_2.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Wisconsin Breast Cancer with Explainable AI. Please re-run all the cells and feel free to play with it.
+ -->
 
 
-<!-- 
--->
 
 ***
 ## Important Packages
