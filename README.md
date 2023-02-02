@@ -37,19 +37,19 @@ Please make sure you have filled this [Google form](https://forms.gle/CHAFP5PojJ
 
 ### Steps to follow:
 
-1. Go to [Week 2](https://github.com/sagihaider/CE880_2021/tree/main/Week2) folder
-2. Open [Exercise 1](https://github.com/sagihaider/CE880_2021/blob/main/Week2/Exercise_2_1_NumPy.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered NuPy and re-run all the cells and feel free to play with it.
-3. Open [Exercise 2](https://github.com/sagihaider/CE880_2021/blob/main/Week2/Exercise_2_2_Pandas.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Pandas and re-run all the cells and feel free to play with it.
+1. Go to [Week 2](https://github.com/sagihaider/CE880/tree/main/Week2) folder
+2. Open [Exercise 1](https://github.com/sagihaider/CE880/blob/main/Week2/Exercise_2_1_NumPy.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered NuPy and re-run all the cells and feel free to play with it.
+3. Open [Exercise 2](https://github.com/sagihaider/CE880/blob/main/Week2/Exercise_2_2_Pandas.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Pandas and re-run all the cells and feel free to play with it.
 
 
 ## Lab 3: Data Exploration: Exploratory Data Analysis<a name="DE"></a>
 
 ### Steps to follow:
 
-1. Go to [Week 3](https://github.com/sagihaider/CE880_2021/tree/main/Week3) folder
-2. Open [Exercise 1](https://github.com/sagihaider/CE880_2021/blob/main/Week3/Exercise_3_1_DataLoadingColab.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Data Loading and re-run all the cells and feel free to play with it.
-3. Open [Exercise 2](https://github.com/sagihaider/CE880_2021/blob/main/Week3/Exercise_3_2_ReadingDataFiles.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have reading different file formarts and re-run all the cells and feel free to play with it.
-4. Open [Exercise 3](https://github.com/sagihaider/CE880_2021/blob/main/Week3/Exercise_3_3_BasicStatistics.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered basic statistics and re-run all the cells and feel free to play with it.
+1. Go to [Week 3](https://github.com/sagihaider/CE880/tree/main/Week3) folder
+2. Open [Exercise 1](https://github.com/sagihaider/CE880/blob/main/Week3/Exercise_3_1_DataLoadingColab.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Data Loading and re-run all the cells and feel free to play with it.
+3. Open [Exercise 2](https://github.com/sagihaider/CE880/blob/main/Week3/Exercise_3_2_ReadingDataFiles.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have reading different file formarts and re-run all the cells and feel free to play with it.
+4. Open [Exercise 3](https://github.com/sagihaider/CE880/blob/main/Week3/Exercise_3_3_BasicStatistics.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered basic statistics and re-run all the cells and feel free to play with it.
 
 <!-- 
 
