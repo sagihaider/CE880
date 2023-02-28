@@ -7,9 +7,8 @@
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
 5. [Lab 5: Introduction to Machine Learning](#ML)
 6. [Lab 6: Evaluation Metrics and Hypothesis Testing](#SHT)
-
-<!-- 
 7. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
+<!-- 
 9. [Lab 9: Explainable AI](#xAI)
 
 10. [Lab 7: Deep Learning for Images and Text](#DL)
@@ -79,14 +78,15 @@ Please make sure you have filled this [Google form](https://forms.gle/CHAFP5PojJ
 2. Open [Exercise 6: Statistics and Hypothesis Testing](https://github.com/sagihaider/CE880/blob/main/Week6/Excersise_6_1.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Statistics and Hypothesis Testing. Please re-run all the cells and feel free to play with it.
 
 
-<!-- 
 ## Lab 7: Decision Tree and Ensemble Learning <a name="DTE"></a>
 
 ### Steps to follow:
 
-1. Go to [Week 7](https://github.com/sagihaider/CE880_2021/tree/main/Week7) folder
-2. Open [Exercise 7_1: Decision Tree](https://github.com/sagihaider/CE880_2021/blob/main/Week7/Exercise_7_1_Decision_tree_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Decision Tree. Please re-run all the cells and feel free to play with it.
-3. Open [Exercise 7_2: Random Forest](https://github.com/sagihaider/CE880_2021/blob/main/Week7/Exercise_7_2_RandomForest_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Random Forest. Please re-run all the cells and feel free to play with it.
+1. Go to [Week 7](https://github.com/sagihaider/CE880/tree/main/Week7) folder
+2. Open [Exercise 7_1: Decision Tree](https://github.com/sagihaider/CE880/blob/main/Week7/Exercise_7_1_Decision_tree_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Decision Tree. Please re-run all the cells and feel free to play with it.
+3. Open [Exercise 7_2: Random Forest](https://github.com/sagihaider/CE880/blob/main/Week7/Exercise_7_2_RandomForest_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Random Forest. Please re-run all the cells and feel free to play with it.
+
+<!-- 
 
 ## Lab 9: Explainable AI <a name="xAI"></a>
 
