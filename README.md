@@ -5,8 +5,8 @@
 2. [Lab 2: Being a Data Scientist](#DS)
 3. [Lab 3: Data Exploration: Exploratory Data Analysis](#DE)
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
-<!-- 
 5. [Lab 5: Introduction to Machine Learning](#ML)
+<!-- 
 6. [Lab 6: Evaluation Metrics and Hypothesis Testing](#SHT)
 7. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
 9. [Lab 9: Explainable AI](#xAI)
@@ -58,7 +58,6 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 1. Go to [Week 4](https://github.com/sagihaider/CE880/tree/main/Week4) folder
 2. Open [Exercise 1](https://github.com/sagihaider/CE880/blob/main/Week4/Exercise_4_DataExploration.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Clustering, Dimensionality Reduction, Outlier Detection, and a case study. Please re-run all the cells and feel free to play with it.
 
-<!-- 
 	
 ## Lab 5: Introduction to Machine Learning <a name="ML"></a>
 
@@ -69,6 +68,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 3. Open [Exercise 5: Classification](https://github.com/sagihaider/CE880_2021/blob/main/Week5/Exercise_5_Classification.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered classification on the real data. Please re-run all the cells and feel free to play with it.
 
 
+<!-- 
 ## Lab 6: Statistics and Hypothesis Testing <a name="SHT"></a>
 
 ### Steps to follow:
