@@ -8,8 +8,8 @@
 5. [Lab 5: Introduction to Machine Learning](#ML)
 6. [Lab 6: Evaluation Metrics and Hypothesis Testing](#SHT)
 7. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
-<!-- 
 9. [Lab 9: Explainable AI](#xAI)
+<!-- 
 10. [Lab 7: Deep Learning for Images and Text](#DL)
 11. [Lab 8: Transfer Learning](#TL) 
 -->
@@ -86,7 +86,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 3. Open [Exercise 7_2: Random Forest](https://github.com/sagihaider/CE880/blob/main/Week7/Exercise_7_2_RandomForest_classifier.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Random Forest. Please re-run all the cells and feel free to play with it.
 
 
-<!-- 
+
 ## Lab 9: Explainable AI <a name="xAI"></a>
 
 ### Steps to follow:
@@ -95,6 +95,8 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 2. Open [Exercise 9_1](https://github.com/sagihaider/CE880/blob/main/week9/Excercise_9_1.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Titanic with explainable AI. Please re-run all the cells and feel free to play with it.
 
 3. Open [Exercise 9_2](https://github.com/sagihaider/CE880/blob/main/week9/Excercise_9_2.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have a full example of Wisconsin Breast Cancer with Explainable AI. Please re-run all the cells and feel free to play with it.
+
+<!-- 
 
  -->
 
