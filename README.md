@@ -1,4 +1,4 @@
-# CE880 University of Essex: 2023-2024 (Autumn Term)
+# CE880 University of Essex: 2023-2024 (Spring Term)
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
